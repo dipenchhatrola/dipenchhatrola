@@ -17,12 +17,12 @@
 
 ## 👨‍💻 About Me
 
-Results-driven **Software Developer** with **2.5+ years** of hands-on experience building scalable web applications and business automation systems. I specialize in **React.js**, **Next.js**, the **Microsoft Power Platform** (*Power Apps, Power Automate, Power BI*), and **Laravel/PHP**. 
+Results-driven **Software Developer** with **1+ years** of hands-on experience building scalable web applications and business automation systems. I specialize in **React.js**, **Next.js**, **Tailwind-CSS**, **Bootstrap**, **Vue.js** and **Laravel/PHP**. 
 
 - 🌟 **Frontend & Web Development:** Crafting pixel-perfect, responsive SPAs and full-stack web applications with modern component architectures.
 - ⚡ **Low-Code & Automation:** Building Canvas & Model-Driven Power Apps, automating complex cross-department workflows, and integrating Dataverse.
 - 📊 **Data Analytics & BI:** Designing interactive real-time Power BI dashboards, performing exploratory data analysis, and translating data into actionable business insights.
-- 🎯 **Open to Roles:** Software Developer, Frontend Engineer, Power Platform Specialist, and Data Analytics positions.
+- 🎯 **Open to Roles:** Software Developer, Frontend Engineer, and MERN stack Developer positions.
 
 ---
 
