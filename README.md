@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=Dipen%20Chhatrola&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20React.js%20Developer%20%7C%20UI/UX&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=Dipen%20Chhatrola&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%7C%20React.js%20%26%20Next.js%20%7C%7C%20MERN%20Stack%20%7C%7C%20SaaS%20%26%20Custom%20Web%20Applications&descSize=16&descAlignY=62&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://www.dipenchhatrola.com/">
@@ -126,21 +125,6 @@ location: Rajkot, Gujarat, India 🇮🇳
 | 🌿 **VerdéVella Interiors** | Luxury Editorial Interior Design Brand | `React.js` `Custom CSS3` `Editorial UX` | [**View Project** ↗](https://www.dipenchhatrola.com/) |
 | 🎨 **Bloom Studio** | Creative Studio Website with Fluid Motion | `React.js` `Bootstrap 5` `Fluid Animations` | [**View Project** ↗](https://www.dipenchhatrola.com/) |
 | 🚀 **Aurora Agency** | Full-Service Digital & Creative Agency | `React.js` `CSS3` `Brand Design` | [**View Project** ↗](https://www.dipenchhatrola.com/) |
-
-</div>
-
----
-
-### 📈 GitHub Analytics & Performance
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dipenchhatrola&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dipen's GitHub Stats" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dipenchhatrola&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dipenchhatrola&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
 
 </div>
 
