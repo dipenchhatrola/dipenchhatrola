@@ -2,10 +2,10 @@
 
 # Hi there, I'm Dipen Chhatrola 👋
 
-### 🚀 Software Developer · React.js & Power Platform · Data Analyst
+### 🚀 Software Developer · React.js Developer
 **Turning complex business requirements into intuitive, scalable digital solutions.**
 
-📍 **Rajkot, Gujarat, India** · 💼 **2.5+ Years Shipping Production Apps**
+📍 **Rajkot, Gujarat, India** · 💼 **1+ Years Shipping Production Apps**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dipenchhatrola.com-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dipenchhatrola.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dipen_Chhatrola-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipenchhatrola/)
@@ -38,13 +38,6 @@ Results-driven **Software Developer** with **2.5+ years** of hands-on experience
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### **Microsoft Power Platform & Cloud**
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=microsoftpowerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Dataverse](https://img.shields.io/badge/Microsoft_Dataverse-008272?style=flat-square&logo=microsoft&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
-
 ### **Backend & Databases**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -53,9 +46,6 @@ Results-driven **Software Developer** with **2.5+ years** of hands-on experience
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ### **Analytics, DevOps & Tools**
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-008080?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-4B0082?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile_Methodology-0052CC?style=flat-square&logo=jira&logoColor=white)
