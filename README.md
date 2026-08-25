@@ -93,17 +93,6 @@ Results-driven **Software Developer** with **1+ years** of hands-on experience b
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dipenchhatrola&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dipen's GitHub Stats" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dipenchhatrola&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
