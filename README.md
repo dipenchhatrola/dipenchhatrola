@@ -4,22 +4,20 @@
 <img src="./header.svg" width="100%" alt="Dipen Chhatrola Banner"/>
 
 <!-- Typing Animation -->
-<a href="https://www.dipenchhatrola.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Software+Developer+%F0%9F%9A%80;React.js+%26+Next.js+Specialist+%E2%9A%9B%EF%9F%B3;Building+Scalable+%26+Modern+Web+Apps+%F0%9F%8C%90;Turning+Ideas+into+Digital+Reality+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Software+Developer;React.js+%26+Next.js+Specialist;Building+Scalable+%26+Modern+Web+Apps;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
 
 <br/>
 
 <!-- Quick Badges -->
 <p align="center">
   <a href="https://www.dipenchhatrola.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-dipenchhatrola.com-7C3AED?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-dipenchhatrola.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/dipenchhatrola/" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Dipen_Chhatrola-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Dipen_Chhatrola-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:chhatroladipen@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📬_Email-chhatroladipen@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-chhatroladipen%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
