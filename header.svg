@@ -1,0 +1,40 @@
+<svg width="100%" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.25"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1000" height="220" rx="16" fill="url(#bgGrad)"/>
+
+  <!-- Decorative Waves -->
+  <path d="M0 130 C 200 170, 400 100, 600 140 C 800 180, 900 130, 1000 150 L 1000 220 L 0 220 Z" fill="url(#wave1)"/>
+  <path d="M0 160 C 250 120, 450 190, 700 140 C 850 110, 950 170, 1000 160 L 1000 220 L 0 220 Z" fill="url(#wave2)"/>
+
+  <!-- Title Text -->
+  <text x="500" y="85" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="0.5" filter="url(#shadow)">
+    Dipen Chhatrola 👋
+  </text>
+
+  <!-- Subtitle Tagline Pill -->
+  <g transform="translate(500, 140)">
+    <rect x="-390" y="-22" width="780" height="44" rx="22" fill="#000000" fill-opacity="0.22" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="1.5"/>
+    <text x="0" y="7" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="0.3">
+      Frontend Developer  ||  React.js &amp; Next.js  ||  MERN Stack  ||  SaaS &amp; Custom Web Apps
+    </text>
+  </g>
+</svg>

@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=Dipen%20Chhatrola&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%7C%20React.js%20%26%20Next.js%20%7C%7C%20MERN%20Stack%20%7C%7C%20SaaS%20%26%20Custom%20Web%20Applications&descSize=16&descAlignY=62&descAlign=50" width="100%"/>
+<!-- Header Banner -->
+<img src="./header.svg" width="100%" alt="Dipen Chhatrola Banner"/>
 
 <!-- Typing Animation -->
 <a href="https://www.dipenchhatrola.com/">
@@ -151,6 +152,6 @@ location: Rajkot, Gujarat, India 🇮🇳
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=100&section=footer" width="100%"/>
+<img src="./footer.svg" width="100%" alt="Footer Wave"/>
 
 </div>
