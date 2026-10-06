@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Dipen Chhatrola
+# Hi 👋, I’m Dipen Chhatrola
 
 - 👀 **Passionate Frontend Developer:** I specialize in **React.js** and have **1+ years of professional experience** crafting dynamic, user-friendly web applications.  
 - 🌱 **Eager Learner:** Currently diving deeper into **React Hooks**, **Redux Toolkit**, and advanced frontend concepts to stay ahead in modern web development.  
